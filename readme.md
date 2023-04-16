@@ -16,6 +16,16 @@ its ability to learn from its experiences. It uses advanced machine learning alg
 ## 🥇 usecases
 Use cases for Auto-GPT are numerous. For instance, it can be used to create personalized content for an online e-commerce store or generate news articles for a news website. It can also be used to create highly engaging chatbots that can interact with customers in real-time.
 
+we curated list for:
+
+- Classical tasks (that can be done also in the chat)
+- Sophisticate that cannot be perofmed on the chat
+- More complicated that evovlve search on the web
+- Advanced Business usecases
+- Advanced Development and machine learning usecases
+- Advanced marketing
+
+
 ## 🪜 If you want to add category please create Pull-request!
 
 # Classical tasks (that can be done also in the chat)
