@@ -24,7 +24,7 @@ we curated list for:
 - Advanced Business usecases
 - Advanced Development and machine learning usecases
 - Advanced marketing
-
+- University and school tasks
 
 ## 🪜 If you want to add category please create Pull-request!
 
@@ -176,6 +176,30 @@ we curated list for:
 | Public Relations | Crisis Management | "Develop a crisis management plan for a food and beverage company in response to a product recall, including media response, customer communication, and brand reputation management." |
 | Public Relations | Media Relations | "Develop a media relations strategy for a nonprofit organization, including identifying key media contacts, developing media pitches, and managing media outreach." |
 
+#University and school
+
+| Category | Task Type | Relevant Prompt |
+|----------|-----------|-----------------|
+| Research | Literature Review | "Conduct a literature review on the impact of social media on mental health, including identifying key studies, analyzing findings, and identifying gaps in the literature." |
+| Research | Data Analysis | "Analyze a dataset on student performance in a K-12 school district, including identifying trends, running statistical tests, and creating visualizations." |
+| Writing | Essay Writing | "Write a 10-page research paper on the topic of climate change, including thesis statement, outline, and proper citation formatting." |
+| Writing | Personal Statement | "Write a compelling personal statement for a college application, including identifying key experiences, crafting a narrative, and highlighting achievements." |
+| Exam Prep | Test Taking Strategies | "Develop a study plan for a student preparing for the SAT, including test-taking strategies, practice exams, and time management techniques." |
+| Exam Prep | Flashcard Creation | "Create a set of flashcards for a student preparing for a biology final exam, including key terms, concepts, and definitions." |
+| Language Learning | Vocabulary Acquisition | "Develop a vocabulary acquisition plan for a student learning Spanish, including selecting appropriate resources, creating flashcards, and tracking progress." |
+| Language Learning | Pronunciation Practice | "Create a pronunciation practice plan for a student learning Mandarin, including identifying challenging sounds, providing audio resources, and giving feedback on pronunciation." |
+| Career Development | Resume Writing | "Write a resume for a recent college graduate seeking a job in marketing, including highlighting relevant skills, education, and experience." |
+| Career Development | Job Search Strategy | "Develop a job search strategy for a student interested in pursuing a career in healthcare, including identifying potential employers, crafting a resume and cover letter, and preparing for interviews." |
+| Academic Planning | Course Selection | "Develop a course selection plan for a high school student interested in pursuing a career in engineering, including identifying relevant courses, evaluating prerequisites, and mapping out a plan of study." |
+| Academic Planning | Degree Planning | "Develop a degree planning strategy for a college student pursuing a degree in psychology, including identifying relevant courses, evaluating prerequisites, and mapping out a plan of study." |
+| Study Abroad | Program Selection | "Select a study abroad program for a college student interested in studying abroad in Spain, including evaluating program options, analyzing costs, and identifying relevant coursework." |
+| Study Abroad | Cultural Preparation | "Develop a cultural preparation plan for a student studying abroad in Japan, including identifying cultural norms, providing language resources, and preparing for potential culture shock." |
+| Academic Support | Tutoring | "Provide tutoring services for a high school student struggling with algebra, including identifying key areas of weakness, providing targeted instruction, and tracking progress." |
+| Academic Support | Study Skills Coaching | "Provide study skills coaching for a college student struggling with time management, including developing a study schedule, providing accountability, and offering feedback." |
+| College Admissions | Application Review | "Review a college application for a high school student applying to multiple universities, including evaluating the application, providing feedback, and identifying areas for improvement." |
+| College Admissions | College List Building | "Build a list of target colleges for a high school student interested in pursuing a degree in business, including evaluating admissions criteria, analyzing costs, and identifying relevant programs." |
+| Grad School Applications | Personal Statement Writing | "Write a personal statement for a graduate school application in the field of education, including crafting a narrative, highlighting relevant experience, and addressing potential weaknesses." |
+| Grad School Applications | Program Selection | "Select a graduate program in the field of computer
 
 
 
