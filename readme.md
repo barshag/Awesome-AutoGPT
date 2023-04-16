@@ -1,14 +1,15 @@
 
-# what is Auto-GPT
+# 🤖 what is Auto-GPT
 
 Auto-GPT is a state-of-the-art language processing AI capable of completing tasks autonomously. It is a versatile tool that can be used in a wide range of applications, including natural language processing, chatbots, and writing assistants, among others. One of the primary benefits of Auto-GPT is its ability to understand and generate human-like language. Whether it is writing a complex report, responding to customer inquiries, or generating personalized content, Auto-GPT is the ultimate solution.
 
-## Benefits: its ability to learn from its experiences. It uses advanced machine learning algorithms to analyze and learn from data, enabling it to improve its performance over time. This makes it a highly valuable tool for businesses and organizations that want to improve their operations and increase efficiency.
+## 🎁 Benefits: 
+its ability to learn from its experiences. It uses advanced machine learning algorithms to analyze and learn from data, enabling it to improve its performance over time. This makes it a highly valuable tool for businesses and organizations that want to improve their operations and increase efficiency.
 
-## usecases
+## 🥇 usecases
 Use cases for Auto-GPT are numerous. For instance, it can be used to create personalized content for an online e-commerce store or generate news articles for a news website. It can also be used to create highly engaging chatbots that can interact with customers in real-time.
 
-## If you want to add category please create Pull-request!
+## 🪜 If you want to add category please create Pull-request!
 
 # Classical tasks (that can be done also in the chat)
 | Category | Task Type | Relevant Prompt |
