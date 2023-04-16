@@ -1,13 +1,14 @@
 
-#what is Auto-GPT
+# what is Auto-GPT
 
-Auto-GPT is a state-of-the-art language processing AI capable of completing tasks autonomously. It is a versatile tool that can be used in a wide range of applications, including natural language processing, chatbots, and writing assistants, among others.
-One of the primary benefits of Auto-GPT is its ability to understand and generate human-like language. Whether it is writing a complex report, responding to customer inquiries, or generating personalized content, Auto-GPT is the ultimate solution.
-Another key benefit of Auto-GPT is its ability to learn from its experiences. It uses advanced machine learning algorithms to analyze and learn from data, enabling it to improve its performance over time. This makes it a highly valuable tool for businesses and organizations that want to improve their operations and increase efficiency.
+Auto-GPT is a state-of-the-art language processing AI capable of completing tasks autonomously. It is a versatile tool that can be used in a wide range of applications, including natural language processing, chatbots, and writing assistants, among others. One of the primary benefits of Auto-GPT is its ability to understand and generate human-like language. Whether it is writing a complex report, responding to customer inquiries, or generating personalized content, Auto-GPT is the ultimate solution.
+
+## Benefits: its ability to learn from its experiences. It uses advanced machine learning algorithms to analyze and learn from data, enabling it to improve its performance over time. This makes it a highly valuable tool for businesses and organizations that want to improve their operations and increase efficiency.
+
+## usecases
 Use cases for Auto-GPT are numerous. For instance, it can be used to create personalized content for an online e-commerce store or generate news articles for a news website. It can also be used to create highly engaging chatbots that can interact with customers in real-time.
-In conclusion, Auto-GPT is an incredibly powerful tool that can transform the way we work and interact with language. Its ability to understand and generate human-like language, learn from experience, and be used in a wide range of applications makes it a must-have for businesses and organizations looking to improve their operations. Thanks for reading!
 
-
+## If you want to add category please create Pull-request!
 
 # Classical tasks (that can be done also in the chat)
 | Category | Task Type | Relevant Prompt |
